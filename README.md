@@ -4,11 +4,13 @@
 
 <p align="center">How I customize my Windows 11 desktop ✨</p>
 
-![](https://github.com/TRZMlEL/Windows-11-Sunflower/blob/main/desktop.png)
-
+## **Screenshots**
 
 https://github.com/user-attachments/assets/97db4f9b-0bb5-4c47-a619-1a9f53003960
 
+| ![](https://github.com/TRZMlEL/Windows-11-Sunflower/blob/main/desktop.png) | ![](https://github.com/TRZMlEL/Windows-11-Sunflower/blob/main/terminals.png) |
+|----------------------------------------------------------------------------|-----------------------------------------------------------------------------|
+| ![](https://github.com/TRZMlEL/Windows-11-Sunflower/blob/main/eksplorer.png) | ![](https://github.com/TRZMlEL/Windows-11-Sunflower/blob/main/zen.png)       |
 
 ## **Things I used**
 
