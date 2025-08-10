@@ -3,3 +3,7 @@
 </p>
 
 <p align="center">How I customize my Windows 11 desktop ✨</p>
+
+![]()
+
+## Things I used
