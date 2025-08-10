@@ -25,9 +25,14 @@
 
 [**MicaForEveryone**](https://github.com/MicaForEveryone/MicaForEveryone) - Other transparency effects (but now work very well for me)
 
-**Zen Browser** -  
-- [Twiglight](https://zen-browser.app/download/?twilight)  
+[**Zen Twiglight**](https://zen-browser.app/download/?twilight) - Browser
+
+**Zen mods:**
+- [Since theme manager](https://github.com/CosmoCreeper/Sine)
 - [Nebula theme](https://github.com/JustAdumbPrsn/Zen-Nebula)
+- [Zen Internet extension](https://addons.mozilla.org/en-US/firefox/addon/zen-internet/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
+- [Modern for Hacker News extension](https://www.modernhn.com/)
+
 
 [RunCat365](https://github.com/Kyome22/RunCat365)
 
