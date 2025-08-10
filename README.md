@@ -24,9 +24,9 @@ https://github.com/user-attachments/assets/928dc261-c493-4235-9ddf-d3d04599cef7
 
 [**StartAllBack**](https://www.startallback.com/) - Taskbar
 
-[Winfetch](https://github.com/lptstr/winfetch) - Windows fetch - [config.ps1 file with my ascii setup](https://github.com/TRZMlEL/Windows-11-Sunflower/blob/main/config.ps1)
+[**Winfetch**](https://github.com/lptstr/winfetch) - Windows fetch - [config.ps1 file with my ascii setup](https://github.com/TRZMlEL/Windows-11-Sunflower/blob/main/config.ps1)
 
-[Neofetch](https://github.com/dylanaraps/neofetch) - Linux fetch
+[**Neofetch**](https://github.com/dylanaraps/neofetch) - Linux fetch
 
 [**ExplorerBlurMica**](https://github.com/Maplespe/ExplorerBlurMica) - Explorer Transparency
 
