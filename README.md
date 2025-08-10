@@ -43,7 +43,7 @@ https://github.com/user-attachments/assets/928dc261-c493-4235-9ddf-d3d04599cef7
 
 [**RunCat365**](https://github.com/Kyome22/RunCat365)
 
-[**Terminal bonsai**](https://gitlab.com/jallbrit/bonsai.sh)
+[**bonsai.sh**](https://gitlab.com/jallbrit/bonsai.sh) - Terminal bonsai
 
 [**Nilesoft shell**](https://nilesoft.org/) - right-click menu - [theme.nss file with my theme setup](https://github.com/TRZMlEL/Windows-11-Sunflower/blob/main/theme.nss)
 
