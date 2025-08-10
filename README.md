@@ -53,7 +53,6 @@ https://github.com/user-attachments/assets/928dc261-c493-4235-9ddf-d3d04599cef7
 
 <img align="left" alt="Figma" width="20px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1200px-Figma-logo.svg.png" />[Figma custom icon](https://commons.wikimedia.org/wiki/File:Figma-logo.svg)
 
-
 [Zen Browser custom icon](https://www.reddit.com/r/zen_browser/comments/1krnw15/zen_browser_new_holographic_icon/)<img align="left" alt="Zen" width="30px" style="padding-right:10px;" src="https://i.redd.it/ibtwom3ku12f1.png" />
 
-
+I also use [StandBy phone android app](https://play.google.com/store/apps/details?id=com.samvd.standby&pli=1) as desk clock.
