@@ -15,7 +15,7 @@ https://github.com/user-attachments/assets/928dc261-c493-4235-9ddf-d3d04599cef7
 
 ## **Things I used**
 
-**Windows 11 Home 25H2 Dev +** Linux Mint 22.2 - System
+**Windows 11 Home 25H2 Dev +** [Linux Mint 22.2 WSL2](https://github.com/sileshn/LinuxmintWSL2) - System
 
 **WallpaperEngine** - Wallpaper
 
