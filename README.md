@@ -21,9 +21,9 @@
 
 [Neofetch](https://github.com/dylanaraps/neofetch) - Linux fetch
 
-[Figma custom icon](https://commons.wikimedia.org/wiki/File:Figma-logo.svg) - Figma PNG icon without background
+[**ExplorerBlurMica**](https://github.com/Maplespe/ExplorerBlurMica) - Explorer Transparency
 
-**Explorer Transparency** - ExplorerBlurMica
+[**MicaForEveryone**](https://github.com/MicaForEveryone/MicaForEveryone) - Other transparency effects (but now work very well for me)
 
 **Zen Browser** -  
 - [Twiglight](https://zen-browser.app/download/?twilight)  
@@ -31,8 +31,12 @@
 
 [RunCat365](https://github.com/Kyome22/RunCat365)
 
-[Zen icon](https://www.reddit.com/r/zen_browser/comments/1krnw15/zen_browser_new_holographic_icon/)
-
 [Nilesoft shell](https://nilesoft.org/) - right-click menu + [my theme.nss file](#) *(link to your theme.nss file)*
 
 [Rectify11](https://www.rectify11.net/home)
+
+[Figma custom icon](https://commons.wikimedia.org/wiki/File:Figma-logo.svg)
+
+[Zen Browser custom icon](https://www.reddit.com/r/zen_browser/comments/1krnw15/zen_browser_new_holographic_icon/)
+
+
