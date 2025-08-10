@@ -40,6 +40,8 @@
 
 [Rectify11](https://www.rectify11.net/home)
 
+[**WinRAR theme**](https://maisondasilva.com.br/2022/06/13/tema-winrar-baseado-no-windows-11/)
+
 <img align="left" alt="Figma" width="20px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1200px-Figma-logo.svg.png" />[Figma custom icon](https://commons.wikimedia.org/wiki/File:Figma-logo.svg)
 
 
