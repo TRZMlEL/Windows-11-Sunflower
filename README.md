@@ -6,7 +6,7 @@
 
 ## **Screenshots**
 
-https://github.com/user-attachments/assets/97db4f9b-0bb5-4c47-a619-1a9f53003960
+https://github.com/user-attachments/assets/928dc261-c493-4235-9ddf-d3d04599cef7
 
 | ![](https://github.com/TRZMlEL/Windows-11-Sunflower/blob/main/desktop.png) | ![](https://github.com/TRZMlEL/Windows-11-Sunflower/blob/main/fetch.png) |
 |----------------------------------------------------------------------------|-----------------------------------------------------------------------------|
