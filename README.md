@@ -28,7 +28,7 @@ https://github.com/user-attachments/assets/928dc261-c493-4235-9ddf-d3d04599cef7
 
 [**Neofetch**](https://github.com/dylanaraps/neofetch) - Linux fetch
 
-[**ExplorerBlurMica**](https://github.com/Maplespe/ExplorerBlurMica) - Explorer Transparency
+[**ExplorerBlurMica**](https://github.com/Maplespe/ExplorerBlurMica) - Explorer Transparency - [tutorial](https://www.linkvegastheme.com/how-to-get-the-acrylic-and-blur-effects/)
 
 [**MicaForEveryone**](https://github.com/MicaForEveryone/MicaForEveryone) - Other transparency effects (but now work very well for me)
 
