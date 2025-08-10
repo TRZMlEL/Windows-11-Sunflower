@@ -34,11 +34,11 @@
 - [Modern for Hacker News extension](https://www.modernhn.com/)
 
 
-[RunCat365](https://github.com/Kyome22/RunCat365)
+[**RunCat365**](https://github.com/Kyome22/RunCat365)
 
-[Nilesoft shell](https://nilesoft.org/) - right-click menu + [my theme.nss file](https://github.com/TRZMlEL/Windows-11-Sunflower/blob/main/theme.nss)
+[**Nilesoft shell**](https://nilesoft.org/) - right-click menu + [my theme.nss file](https://github.com/TRZMlEL/Windows-11-Sunflower/blob/main/theme.nss)
 
-[Rectify11](https://www.rectify11.net/home)
+[**Rectify11**](https://www.rectify11.net/home)
 
 [**WinRAR theme**](https://maisondasilva.com.br/2022/06/13/tema-winrar-baseado-no-windows-11/)
 
