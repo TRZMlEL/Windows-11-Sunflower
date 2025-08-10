@@ -17,7 +17,7 @@
 
 [**StartAllBack**](https://www.startallback.com/) - Taskbar
 
-[Winfetch](https://github.com/lptstr/winfetch) - Windows fetch + [config.ps1 with my setup](#) *(link to your config.ps1 file)*
+[Winfetch](https://github.com/lptstr/winfetch) - Windows fetch + [config.ps1 with my setup](https://github.com/TRZMlEL/Windows-11-Sunflower/blob/main/config.ps1)
 
 [Neofetch](https://github.com/dylanaraps/neofetch) - Linux fetch
 
@@ -36,7 +36,7 @@
 
 [RunCat365](https://github.com/Kyome22/RunCat365)
 
-[Nilesoft shell](https://nilesoft.org/) - right-click menu + [my theme.nss file](#) *(link to your theme.nss file)*
+[Nilesoft shell](https://nilesoft.org/) - right-click menu + [my theme.nss file](https://github.com/TRZMlEL/Windows-11-Sunflower/blob/main/theme.nss)
 
 [Rectify11](https://www.rectify11.net/home)
 
