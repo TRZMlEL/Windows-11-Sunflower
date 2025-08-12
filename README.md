@@ -45,7 +45,7 @@ https://github.com/user-attachments/assets/928dc261-c493-4235-9ddf-d3d04599cef7
 
 [**bonsai.sh**](https://gitlab.com/jallbrit/bonsai.sh) - Terminal bonsai
 
-[**Nilesoft shell**](https://nilesoft.org/) - right-click menu - [theme.nss file with my theme setup](https://github.com/TRZMlEL/Windows-11-Sunflower/blob/main/theme.nss)
+[**Nilesoft shell**](https://nilesoft.org/) - right-click menu - [theme.nss file with my theme setup](https://github.com/TRZMlEL/Windows-11-Sunflower/blob/main/theme.nss) - [orginal Creator](https://github.com/lunar-os/windowsdesktop3)
 
 [**Rectify11**](https://www.rectify11.net/home)
 
